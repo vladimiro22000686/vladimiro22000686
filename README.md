@@ -33,7 +33,7 @@ Este repositório é colaborativo, então sinta-se à vontade para contribuir! P
 
 ## Dúvidas e Contato
 
-Para qualquer dúvida, entre em contato com o professor durante as aulas ou através dos canais de comunicação oficiais.
+Para qualquer dúvida, entre em contato com o professor durante as aulas ou através p6902@ulusofona.pt
 
 ---
 
