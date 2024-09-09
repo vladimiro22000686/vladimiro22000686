@@ -18,8 +18,8 @@ O repositório está organizado em diretórios por aula, onde cada diretório co
 
 Para garantir a privacidade das suas submissões, siga os passos abaixo:
 
-1. **Faça um fork privado deste repositório:** Para garantir que só você e o professor têm acesso ao seu fork.
-2. **Adicione o professor como colaborador no seu fork privado:** Isso permitirá que o professor veja e avalie o seu trabalho.
+1. **Faça um  repositório privado:** Para garantir que só você e o professor têm acesso ao seu fork.
+2. **Ver video ** Isso permitirá que o professor veja e avalie o seu trabalho.
 3. **Organize os seus ficheiros no diretório correspondente à aula ou exercício.**
 4. **Faça um pull request:** O pull request será visível apenas para o professor, mantendo a privacidade da sua submissão.
 
