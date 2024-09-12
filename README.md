@@ -1,6 +1,6 @@
 # Repositório de Sistemas Operativos 2024/2025
 
-Bem-vindo ao repositório de **Sistemas Operativos**!!!
+Bem-vindo ao repositório de **Sistemas Operativos**
 
 Este espaço foi criado para que os alunos possam:
 
